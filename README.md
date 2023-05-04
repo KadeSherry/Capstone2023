@@ -6,15 +6,25 @@ Using Zabbix, we are able to query the devices for key pieces of information, wi
 
 ## Table of Contents
 [Google Cloud](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#google-cloud) 
-[Plugins] (https://github.com/KadeSherry/Capstone2023/edit/main/README.md#plugins)
-[Slack Tokens] (https://github.com/KadeSherry/Capstone2023/edit/main/README.md#obtaining-slack-tokens)
+
+[Plugins](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#plugins)
+
+[Slack Tokens](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#obtaining-slack-tokens)
+
 [Connecting GitHub to Nautobot](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#connecting-github-to-nautobot)
+
 [Modifying Permissions](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#modify-permissions)
+
 [Installing the Nautobot Server](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#installing-the-nautobot-server)
+
 [Installing the Zabbix Server](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#installing-the-zabbix-server)
+
 [Setting Up Devices for Telementry/Zabbix Use](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#setting-up-devices-for-telementryzabbix-use)
+
 [Ansible](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#ansible)
+
 [Creating Docker Container](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#creating-docker-container)
+
 [Running the Files](https://github.com/KadeSherry/Capstone2023/edit/main/README.md#running-the-files)
 
 
